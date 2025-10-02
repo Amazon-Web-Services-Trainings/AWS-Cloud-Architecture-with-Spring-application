@@ -1,1 +1,1 @@
-# AWS-Cloud-Architecture-For-Java-Spring-Boot-Developers
+# AWS-Cloud-Architecture-with-Spring-boot
