@@ -12,7 +12,7 @@
 **/.mtj.tmp/
 
 # Document
-../training-summary.pdf
+../*.pdf
 
 # Package Files #
 **/*.jar
