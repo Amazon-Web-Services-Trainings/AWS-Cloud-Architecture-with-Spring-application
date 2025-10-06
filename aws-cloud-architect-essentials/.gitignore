@@ -11,6 +11,9 @@
 # Mobile Tools for Java (J2ME)
 **/.mtj.tmp/
 
+# Document
+training-summary.pdf
+
 # Package Files #
 **/*.jar
 !01-external-services/external-services.jar
